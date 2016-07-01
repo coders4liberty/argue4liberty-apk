@@ -1,7 +1,7 @@
 # argue4me
-Android App in development. Will randomly generate liberty-based arguments.
+Android App in development. Will randomly generate liberty-based arguments. This is a demo APK. We moved to a new repo. https://github.com/coders4liberty/argue4liberty4me4
 
-Not sure yet how to add folders so just uploaded a zip file. Download it and unzip it in your AndroidStudioProjects folder
+Our tutorial in progress can be found at http:/.code4liberty.WordPress.com/android
 
-Following Code Babe tutorial. Currently on Intents section
-https://codebabes.com/courses/android-virgin/android-intents-oop-variable-scope
+Followed Code Babes Android Virgin Tutorial.
+https://codebabes.com/courses/android-virgin
